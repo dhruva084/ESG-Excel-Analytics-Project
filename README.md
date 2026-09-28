@@ -6,6 +6,12 @@ An Excel-based ESG data analysis project using a fictional dataset of 100 compan
 
 The project was developed to practice applying Excel to sustainability and ESG-related data analysis.
 
+# Project Preview
+
+* Master Dashboard - Master_dashboard.png
+* Companies ESG profile summary - company_profile_summary.png
+* High risk companies - High_risk_flagging.png
+
 # Project Objectives
 
 * Organize environmental, social, governance, and financial data.
@@ -18,7 +24,7 @@ The project was developed to practice applying Excel to sustainability and ESG-r
 
 # Data Categories
 
-The fictional dataset includes:
+The dataset includes:
 
 * Environmental: Scope 1, Scope 2, Scope 3 emissions, energy use, renewable energy, water use, and waste.
 * Social: Women in leadership, female employees, training hours, employee turnover, and safety incidents.
