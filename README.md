@@ -61,14 +61,14 @@ The workbook also uses ESG scores to classify companies into 'Low Risk, Medium R
 
 The Excel workbook contains the following sheets:
 
-* Company_Master – Consolidated company information and formula-based ESG analysis, including lookups, ESG risk tiers, and selected emissions metrics.
-* Environmental – Environmental performance data including Scope 1, Scope 2, Scope 3, energy, renewable energy, water, and waste.
-* Social – Social performance indicators including workforce composition, training, turnover, and safety.
-* Governance – Governance indicators, ESG scoring, rankings, normalization, and composite ESG calculations.
-* Financial – Financial and company-level information used for analysis.
-* Pivot_Tab_Prac – PivotTable-based analysis of ESG scores by industry and country.
-* Master_Dashboard – Dashboard-oriented analysis combining ESG, environmental, social, governance, and financial information.
-* Risk-flagging – Formula-based identification of company ESG risk tiers.
+* Company_Master - Consolidated company information and formula-based ESG analysis, including lookups, ESG risk tiers, and selected emissions metrics.
+* Environmental - Environmental performance data including Scope 1, Scope 2, Scope 3, energy, renewable energy, water, and waste.
+* Social - Social performance indicators including workforce composition, training, turnover, and safety.
+* Governance - Governance indicators, ESG scoring, rankings, normalization, and composite ESG calculations.
+* Financial - Financial and company-level information used for analysis.
+* Pivot_Tab_Prac - PivotTable-based analysis of ESG scores by industry and country.
+* Master_Dashboard - Dashboard-oriented analysis combining ESG, environmental, social, governance, and financial information.
+* Risk-flagging - Formula-based identification of company ESG risk tiers.
 
 # Tools
 
